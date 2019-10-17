@@ -7,4 +7,4 @@ if (answer === 'yes') {
     message = ('you so dakine liddat');
 }
 
-document.write (`<h3>` + message + '<h3>')
+document.write (`<h3>` + message + '<h3>');
