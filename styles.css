@@ -7,7 +7,7 @@
 
 .imgs {
     position: relative;
-    right: 10px
+    border: 5px solid black
 }
 
 body {
@@ -48,7 +48,7 @@ header > nav > ul > li {
     display: inline-block;
     padding: 5px;
     margin: 15px;
-    background-color: lightblue;
+    background-color: gray;
     border: 2px solid black;
     border-radius: 25px;
     text-align: center;
