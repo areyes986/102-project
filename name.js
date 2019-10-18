@@ -1,3 +1,6 @@
-var username = prompt('What is your name?');
+function askName(){
+    var username = prompt('What is your name?');
+    
+    document.write('<h3>' + 'Aloha ' + username + '!' + '</h3>');
+}
 
-document.write('<h3>' + username + '</h3>');
